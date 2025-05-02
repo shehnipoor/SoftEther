@@ -8,11 +8,7 @@ https://youtu.be/6oJDcVhoQz8
 
 ###### خرید دامنه از نیم چیپ: 
 ```
-https://namecheap.pxf.io/BX7m6W
-```
-###### خرید دامنه سایت ایرانی: 
-```
-https://dashboard.azaronline.com/order/?aff=790&p=domain
+https://namecheap.com
 ```
 ###### خرید سرور از دیجیتال اوشن : 
 ```
